@@ -53,6 +53,6 @@
     "password": "h1hk3z0zq88i1z8a",
     "database": "x1cdw7zbce77qzqa",
     "host": "aqx5w9yc5brambgl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "dialect": "mysql",
+    "dialect": "mysql"
 }
 }
