@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vincent440/passport-mern-sql"
+    "url": "git"
   },
   "author": "Devon Weems on front-end with much contribution from Vincent Shury with the backened code that saved the day.",
   "license": "MIT",
@@ -34,5 +34,25 @@
     "mysql2": "^2.1.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0"
-  }
+},
+"development":{
+  "username":"i4fx3drp5fjif99j",
+    "password": "h1hk3z0zq88i1z8a",
+    "database": "x1cdw7zbce77qzqa",
+    "host": "aqx5w9yc5brambgl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+},
+"test":{
+  "username":"i4fx3drp5fjif99j",
+    "password": "h1hk3z0zq88i1z8a",
+    "database": "x1cdw7zbce77qzqa",
+    "host": "aqx5w9yc5brambgl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+},"production":{
+  "username":"i4fx3drp5fjif99j",
+    "password": "h1hk3z0zq88i1z8a",
+    "database": "x1cdw7zbce77qzqa",
+    "host": "aqx5w9yc5brambgl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+}
 }
